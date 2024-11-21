@@ -1,0 +1,5 @@
+news-env/
+*.pyc
+__pycache__/
+*.log
+*.sqlite3
